@@ -59,5 +59,5 @@ for (int i = 0; i < numbers.Length; i++)
     }
 }
 Console.WriteLine();
-Console.WriteLine($"количество значений больше 0 -> {sum}");
+Console.WriteLine($"Количество значений больше 0 -> {sum}");
 
